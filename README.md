@@ -11,10 +11,11 @@ I build security products and I break them, which is why they work. These days t
 ## 🔭 Current Role
 
 **Security R&D Technical Lead @ Cyshield**
-- Architected an application security platform that scans on the customer's own machine and sends only finding metadata to the cloud, so source never leaves their environment
+- Architected an AI-native ASPM platform that scans on the customer's own machine and sends only finding metadata to the cloud, so source never leaves their environment
 - Designed the rule pipeline and the finding-identity model that keeps triage decisions attached to a finding across re-scans
 - Built the verification layer that asks a model whether a finding is real, and the MCP server that surfaces findings inside developers' coding agents
-- Led development of the agentic SOC systems our analysts use daily, and owned the security architecture for a commercially launched AI-powered WAF
+- Own the security architecture across the portfolio, including a commercially launched AI-powered WAF that sits inline on all customer traffic
+- Led development of the agentic SOC systems our analysts use daily, where agents carry the investigation legwork and analysts stay accountable for disposition
 
 ## 🤖 AI & Model Infrastructure
 
