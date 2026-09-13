@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I build security products and I break them, which is why they work. These days that means AI-native application security tooling, agentic systems for offense and defense, and the model infrastructure and evaluation work underneath them. My background is offensive, years of penetration testing and secure code review before I started building the tooling that automates it, and that is still where the detection content comes from. Most of my engineering time goes into making AI-assisted security decisions auditable rather than opaque.
+I build security products and I break them, which is why they work. These days that means AI-native application security tooling, agentic systems for offense and defense, and the model infrastructure and evaluation work underneath them. My background is offensive, years of penetration testing and secure code review before I started building the tooling that automates it, now extended to AI systems themselves through OSAI, OffSec's AI red teaming certification. Most of my engineering time goes into making AI-assisted security decisions auditable rather than opaque.
 
 ## 🔭 Current Role
 
@@ -36,6 +36,7 @@ I build security products and I break them, which is why they work. These days t
 ## 🎓 Certifications
 
 ### Advanced Security
+- **OffSec Advanced AI Red Teaming (OSAI)** — [verify](https://credentials.offsec.com/0c6b7486-4764-435c-b0d8-78468179558c)
 - Offensive Security Web Expert (OSWE)
 - Certified Cloud Native Security Expert (CCNSE)
 - Certified Container Security Expert (CCSE)
