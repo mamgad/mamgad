@@ -36,16 +36,18 @@ I build security products and I break them, which is why they work. These days t
 ## 🎓 Certifications
 
 ### Advanced Security
-- **OffSec Advanced AI Red Teaming (OSAI)** — [verify](https://credentials.offsec.com/0c6b7486-4764-435c-b0d8-78468179558c)
-- Offensive Security Web Expert (OSWE)
-- Certified Cloud Native Security Expert (CCNSE)
-- Certified Container Security Expert (CCSE)
-- Certified DevSecOps Professional (CDP)
+- OffSec Advanced AI Red Teaming (OSAI) · [verify](https://credentials.offsec.com/0c6b7486-4764-435c-b0d8-78468179558c)
+- Offensive Security Web Expert (OSWE) · [verify](https://www.credly.com/badges/71af9f0c-d411-4435-b31c-4d39c7ca4f8d/public_url)
+- Certified Cloud Native Security Expert (CCNSE) · [verify](https://www.credly.com/badges/a9a9af47-0706-4d8d-821d-f44226fa2637/)
+- Certified Container Security Expert (CCSE) · [verify](https://www.credly.com/badges/88f16ddd-de07-4bf2-bf16-4774af27dfe0)
+- Certified DevSecOps Professional (CDP) · [verify](https://www.credly.com/badges/4047edd1-2177-4010-8bcf-1db578a8a636)
 
 ### Penetration Testing
 - Web Application Penetration Tester Extreme v2 (eWPTXv2)
 - Certified Professional Penetration Tester v2 (eCPPTv2)
 - Mobile Application Penetration Tester (eMAPT)
+
+<sub>eLearnSecurity's verification portal was retired after the INE acquisition, so the three above have no live credential link. Certificates available on request.</sub>
 
 ## 💻 Technical Skills
 
