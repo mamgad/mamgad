@@ -43,11 +43,9 @@ I build security products and I break them, which is why they work. These days t
 - Certified DevSecOps Professional (CDP) · [verify](https://www.credly.com/badges/4047edd1-2177-4010-8bcf-1db578a8a636)
 
 ### Penetration Testing
-- Web Application Penetration Tester Extreme v2 (eWPTXv2)
-- Certified Professional Penetration Tester v2 (eCPPTv2)
-- Mobile Application Penetration Tester (eMAPT)
-
-<sub>eLearnSecurity's verification portal was retired after the INE acquisition, so the three above have no live credential link. Certificates available on request.</sub>
+- Web Application Penetration Tester Extreme v2 (eWPTXv2) · [verify](https://certs.ine.com/f5d67a16-2494-4d4a-b8e4-ef08432ab131)
+- Certified Professional Penetration Tester v2 (eCPPTv2) · [verify](https://certs.ine.com/af5f8150-2eae-4ddd-8a37-468fc5e95858)
+- Mobile Application Penetration Tester (eMAPT) · [verify](https://certs.ine.com/1735ba4d-0e48-4432-aa6e-dd47e255f9fd)
 
 ## 💻 Technical Skills
 
