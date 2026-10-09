@@ -37,7 +37,7 @@ I build security products and I break them, which is why they work. These days t
   - [CVE-2026-104803](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wpcom-member/wpcom-member-1727-unauthenticated-authentication-bypass-via-uuid-and-code-parameters-on-social-login-callback) (Unauthenticated Authentication Bypass, WPCOM Member WordPress plugin ≤ 1.7.27)
   - [CVE-2026-105059](https://patchstack.com/database/wordpress/plugin/delete-all-comments-of-website/vulnerability/wordpress-delete-all-comments-of-wordpress-plugin-7-1-broken-access-control-vulnerability) (Broken Access Control, Delete All Comments WordPress plugin ≤ 7.1)
   - [CVE-2026-93620](https://patchstack.com/database/wordpress/plugin/payplus-payment-gateway/vulnerability/wordpress-payplus-payment-gateway-plugin-8-2-5-broken-access-control-vulnerability) (Broken Access Control, PayPlus Payment Gateway WordPress plugin ≤ 8.2.5)
-  - CVE-2017-1000058 (Stored XSS at Chevereto CMS), CVE-2018-5222
+  - [CVE-2017-1000058](https://www.cve.org/CVERecord?id=CVE-2017-1000058) (Stored XSS at Chevereto CMS), CVE-2018-5222
 
 ## 🎓 Certifications
 
