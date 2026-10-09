@@ -28,7 +28,7 @@ I build security products and I break them, which is why they work. These days t
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/moh_amgad)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/moh_amgad)
-[![Patchstack](https://img.shields.io/badge/Patchstack-7B3FE4?style=for-the-badge)](https://patchstack.com/database/researchers/cbf755ce-0ada-4561-9cdf-890bc8458aed)
+[![Patchstack](https://img.shields.io/badge/Patchstack-AFE614?style=for-the-badge)](https://patchstack.com/database/researchers/cbf755ce-0ada-4561-9cdf-890bc8458aed)
 [![Wordfence](https://img.shields.io/badge/Wordfence-0068A0?style=for-the-badge)](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/mohamed-khater)
 
 - Discovered and responsibly disclosed critical vulnerabilities in Fortune 500 companies
