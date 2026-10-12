@@ -34,6 +34,7 @@ I build security products and I break them, which is why they work. These days t
 - Discovered and responsibly disclosed critical vulnerabilities in Fortune 500 companies
 - Notable companies: Twitter, Sony, Adobe, TripAdvisor, Ford Motors, Pinterest, Dell
 - Published CVEs:
+  - [CVE-2026-108481](https://patchstack.com/database/wordpress/plugin/patreon-connect/vulnerability/wordpress-patreon-wordpress-plugin-1-10-0-cross-site-request-forgery-csrf-vulnerability) (Cross-Site Request Forgery, Patreon WordPress plugin ≤ 1.10.0)
   - [CVE-2026-104803](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wpcom-member/wpcom-member-1727-unauthenticated-authentication-bypass-via-uuid-and-code-parameters-on-social-login-callback) (Unauthenticated Authentication Bypass, WPCOM Member WordPress plugin ≤ 1.7.27)
   - [CVE-2026-105059](https://patchstack.com/database/wordpress/plugin/delete-all-comments-of-website/vulnerability/wordpress-delete-all-comments-of-wordpress-plugin-7-1-broken-access-control-vulnerability) (Broken Access Control, Delete All Comments WordPress plugin ≤ 7.1)
   - [CVE-2026-93620](https://patchstack.com/database/wordpress/plugin/payplus-payment-gateway/vulnerability/wordpress-payplus-payment-gateway-plugin-8-2-5-broken-access-control-vulnerability) (Broken Access Control, PayPlus Payment Gateway WordPress plugin ≤ 8.2.5)
