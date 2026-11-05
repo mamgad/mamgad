@@ -34,9 +34,16 @@ I build security products and I break them, which is why they work. These days t
 - Discovered and responsibly disclosed critical vulnerabilities in Fortune 500 companies
 - Notable companies: Twitter, Sony, Adobe, TripAdvisor, Ford Motors, Pinterest, Dell
 - Published CVEs:
+  - [CVE-2026-62000](https://patchstack.com/database/wordpress/plugin/wc-multivendor-marketplace/vulnerability/wordpress-wcfm-marketplace-plugin-3-8-2-broken-access-control-vulnerability) (Broken Access Control, WCFM Marketplace WordPress plugin ≤ 3.8.2)
+  - [CVE-2026-120524](https://www.wordfence.com/threat-intel/vulnerabilities/id/7793c171-8aca-461c-9942-9f4d075be5ae) (Subscriber+ Stored XSS, News Kit Addons For Elementor WordPress plugin ≤ 1.4.8)
+  - [CVE-2026-116557](https://www.wordfence.com/threat-intel/vulnerabilities/id/b25cc768-3377-41c9-acf5-8f6c993287c9) (Unauthenticated Calendar Note Deletion, WP Booking System WordPress plugin ≤ 2.1.0.5)
+  - [CVE-2026-116752](https://www.wordfence.com/threat-intel/vulnerabilities/id/197252d7-3098-43cd-b680-3d857ddb29ba) (Subscriber+ Stored XSS, GeoDirectory WordPress plugin ≤ 2.8.197)
+  - [CVE-2026-27062](https://patchstack.com/database/wordpress/plugin/wpfunnels/vulnerability/wordpress-wpfunnels-plugin-3-13-5-cross-site-request-forgery-csrf-vulnerability) (Cross-Site Request Forgery, WPFunnels WordPress plugin ≤ 3.13.5)
+  - [CVE-2026-61993](https://patchstack.com/database/wordpress/plugin/blockonomics-bitcoin-payments/vulnerability/wordpress-blockonomics-plugin-3-11-0-cross-site-scripting-xss-vulnerability) (Cross-Site Scripting, Blockonomics WordPress plugin 3.11.0)
+  - [CVE-2026-111413](https://patchstack.com/database/wordpress/plugin/athemeart-theme-helper/vulnerability/wordpress-athemeart-theme-helper-plugin-1-0-8-cross-site-request-forgery-csrf-vulnerability) (Cross-Site Request Forgery, aThemeArt Theme Helper WordPress plugin ≤ 1.0.8)
   - [CVE-2026-108481](https://patchstack.com/database/wordpress/plugin/patreon-connect/vulnerability/wordpress-patreon-wordpress-plugin-1-10-0-cross-site-request-forgery-csrf-vulnerability) (Cross-Site Request Forgery, Patreon WordPress plugin ≤ 1.10.0)
   - [CVE-2026-104803](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wpcom-member/wpcom-member-1727-unauthenticated-authentication-bypass-via-uuid-and-code-parameters-on-social-login-callback) (Unauthenticated Authentication Bypass, WPCOM Member WordPress plugin ≤ 1.7.27)
-  - [CVE-2026-105059](https://patchstack.com/database/wordpress/plugin/delete-all-comments-of-website/vulnerability/wordpress-delete-all-comments-of-wordpress-plugin-7-1-broken-access-control-vulnerability) (Broken Access Control, Delete All Comments WordPress plugin ≤ 7.1)
+  - [CVE-2026-105059](https://patchstack.com/database/wordpress/plugin/delete-all-comments-of-website/vulnerability/wordpress-delete-all-comments-of-wordpress-plugin-7-1-broken-access-control-vulnerability) (Broken Access Control, Delete All Comments of WordPress plugin ≤ 7.1)
   - [CVE-2026-93620](https://patchstack.com/database/wordpress/plugin/payplus-payment-gateway/vulnerability/wordpress-payplus-payment-gateway-plugin-8-2-5-broken-access-control-vulnerability) (Broken Access Control, PayPlus Payment Gateway WordPress plugin ≤ 8.2.5)
   - [CVE-2017-1000058](https://www.cve.org/CVERecord?id=CVE-2017-1000058) (Stored XSS at Chevereto CMS), CVE-2018-5222
 
