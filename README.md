@@ -34,6 +34,10 @@ I build security products and I break them, which is why they work. These days t
 - Discovered and responsibly disclosed critical vulnerabilities in Fortune 500 companies
 - Notable companies: Twitter, Sony, Adobe, TripAdvisor, Ford Motors, Pinterest, Dell
 - Published CVEs:
+  - [CVE-2026-120739](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/mohamed-khater) (Unauthenticated Stored XSS, Optimole WordPress plugin ≤ 4.2.17)
+  - [CVE-2026-120683](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/mohamed-khater) (Unauthenticated Stored XSS, Real Testimonials WordPress plugin 4.1.0)
+  - [CVE-2026-120478](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/mohamed-khater) (Subscriber+ Stored XSS, HivePress WordPress plugin ≤ 1.8.1)
+  - [CVE-2026-111317](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/mohamed-khater) (Unauthenticated Stored XSS, JetFormBuilder WordPress plugin ≤ 3.6.7)
   - [CVE-2026-62000](https://patchstack.com/database/wordpress/plugin/wc-multivendor-marketplace/vulnerability/wordpress-wcfm-marketplace-plugin-3-8-2-broken-access-control-vulnerability) (Broken Access Control, WCFM Marketplace WordPress plugin ≤ 3.8.2)
   - [CVE-2026-120524](https://www.wordfence.com/threat-intel/vulnerabilities/id/7793c171-8aca-461c-9942-9f4d075be5ae) (Subscriber+ Stored XSS, News Kit Addons For Elementor WordPress plugin ≤ 1.4.8)
   - [CVE-2026-116557](https://www.wordfence.com/threat-intel/vulnerabilities/id/b25cc768-3377-41c9-acf5-8f6c993287c9) (Unauthenticated Calendar Note Deletion, WP Booking System WordPress plugin ≤ 2.1.0.5)
